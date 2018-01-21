@@ -70,16 +70,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/lib64/libbtpower.so:system/lib64/libbtpower.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libbtnv.so:system/vendor/lib64/libbtnv.so \
     vendor/huawei/kiwi/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/huawei/kiwi/proprietary/lib/libcamera_post_mediaserver.so:system/lib/libcamera_post_mediaserver.so \
-    vendor/huawei/kiwi/proprietary/lib/libFNVfbEngineLib.so:system/lib/libFNVfbEngineLib.so \
-    vendor/huawei/kiwi/proprietary/lib/libhdr.so:system/lib/libhdr.so \
-    vendor/huawei/kiwi/proprietary/lib/libmrc_cg_filters.so:system/lib/libmrc_cg_filters.so \
-    vendor/huawei/kiwi/proprietary/lib/libmrc_cg_mfdenoise.so:system/lib/libmrc_cg_mfdenoise.so \
-    vendor/huawei/kiwi/proprietary/lib/libmrc_cg_myFilter.so:system/lib/libmrc_cg_myFilter.so \
-    vendor/huawei/kiwi/proprietary/lib/libmrc_cg_niceFood.so:system/lib/libmrc_cg_niceFood.so \
-    vendor/huawei/kiwi/proprietary/lib/libmrc_cg_postprocess.so:system/lib/libmrc_cg_postprocess.so \
-    vendor/huawei/kiwi/proprietary/lib/libSFBE.so:system/lib/libSFBE.so \
-    vendor/huawei/kiwi/proprietary/lib/libSmartAE.so:system/lib/libSmartAE.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
