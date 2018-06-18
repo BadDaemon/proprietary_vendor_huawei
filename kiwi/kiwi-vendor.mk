@@ -179,9 +179,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/lib/libhuawei_secure.so:system/lib/libhuawei_secure.so \
     vendor/huawei/kiwi/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
     vendor/huawei/kiwi/proprietary/lib/libqmi_nv_api.so:system/lib/libqmi_nv_api.so \
-    vendor/huawei/kiwi/proprietary/lib64/hw/fingerprint.vendor.msm8916.so:system/lib64/hw/fingerprint.vendor.msm8916.so \
-    vendor/huawei/kiwi/proprietary/lib64/hw/fingerprintd.ex.so:system/lib64/hw/fingerprintd.ex.so \
-    vendor/huawei/kiwi/proprietary/lib64/hw/sensors.msm8916.so:system/lib64/hw/sensors.msm8916.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/hw/fingerprint.msm8916.so:system/vendor/lib64/hw/fingerprint.msm8916.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/hw/fingerprintd.ex.so:system/vendor/lib64/hw/fingerprintd.ex.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/sensors.kiwi.so:system/vendor/lib64/sensors.kiwi.so \
     vendor/huawei/kiwi/proprietary/lib64/lib_fpc_tac_shared.so:system/lib64/lib_fpc_tac_shared.so \
     vendor/huawei/kiwi/proprietary/lib64/lib_oeminfo_interface.so:system/lib64/lib_oeminfo_interface.so \
     vendor/huawei/kiwi/proprietary/lib64/libbtaddr.so:system/lib64/libbtaddr.so \
