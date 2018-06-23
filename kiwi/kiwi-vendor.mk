@@ -44,8 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/default/imgproc.xml:system/etc/camera/davinci/default/imgproc.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/default/multiframe.xml:system/etc/camera/davinci/default/multiframe.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/device.config:system/etc/camera/davinci/device.config \
-    vendor/huawei/kiwi/proprietary/etc/camera/davinci/gc2355_ofilm_ohw2f03_pad/imgproc.xml:system/etc/camera/davinci/gc2355_ofilm_ohw2f03_pad/imgproc.xml \
-    vendor/huawei/kiwi/proprietary/etc/camera/davinci/gc2355_ofilm_ohw2f03_pad/multiframe.xml:system/etc/camera/davinci/gc2355_ofilm_ohw2f03_pad/multiframe.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/imx214_foxconn_kiw/imgproc.xml:system/etc/camera/davinci/imx214_foxconn_kiw/imgproc.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/imx214_foxconn_kiw/multiframe.xml:system/etc/camera/davinci/imx214_foxconn_kiw/multiframe.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/imx214_ofilm_kiw/imgproc.xml:system/etc/camera/davinci/imx214_ofilm_kiw/imgproc.xml \
@@ -56,19 +54,13 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/imx219_liteon_pad/multiframe.xml:system/etc/camera/davinci/imx219_liteon_pad/multiframe.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/imx219_ofilm_pad/imgproc.xml:system/etc/camera/davinci/imx219_ofilm_pad/imgproc.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/imx219_ofilm_pad/multiframe.xml:system/etc/camera/davinci/imx219_ofilm_pad/multiframe.xml \
-    vendor/huawei/kiwi/proprietary/etc/camera/davinci/imx328_sunny_p13n10a_ale/multiframe.xml:system/etc/camera/davinci/imx328_sunny_p13n10a_ale/multiframe.xml \
-    vendor/huawei/kiwi/proprietary/etc/camera/davinci/imx328_sunny_p13n10a_chm/multiframe.xml:system/etc/camera/davinci/imx328_sunny_p13n10a_chm/multiframe.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/mfdpath.config:system/etc/camera/davinci/mfdpath.config \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/ov13850_liteon_p13v01h_ale/multiframe.xml:system/etc/camera/davinci/ov13850_liteon_p13v01h_ale/multiframe.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/ov13850_liteon_p13v01h_chm/multiframe.xml:system/etc/camera/davinci/ov13850_liteon_p13v01h_chm/multiframe.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/ov13850_ofilm_ohwba03_ale/multiframe.xml:system/etc/camera/davinci/ov13850_ofilm_ohwba03_ale/multiframe.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/ov13850_ofilm_ohwba03_chm/multiframe.xml:system/etc/camera/davinci/ov13850_ofilm_ohwba03_chm/multiframe.xml \
-    vendor/huawei/kiwi/proprietary/etc/camera/davinci/ov2680_byd_bm2920b_pad/imgproc.xml:system/etc/camera/davinci/ov2680_byd_bm2920b_pad/imgproc.xml \
-    vendor/huawei/kiwi/proprietary/etc/camera/davinci/ov2680_byd_bm2920b_pad/multiframe.xml:system/etc/camera/davinci/ov2680_byd_bm2920b_pad/multiframe.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/ov5648_foxconn_kivi/imgproc.xml:system/etc/camera/davinci/ov5648_foxconn_kivi/imgproc.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/ov5648_ofilm_ohw5f03_kiw/imgproc.xml:system/etc/camera/davinci/ov5648_ofilm_ohw5f03_kiw/imgproc.xml \
-    vendor/huawei/kiwi/proprietary/etc/camera/davinci/ov8858_foxconn_pad/imgproc.xml:system/etc/camera/davinci/ov8858_foxconn_pad/imgproc.xml \
-    vendor/huawei/kiwi/proprietary/etc/camera/davinci/ov8858_foxconn_pad/multiframe.xml:system/etc/camera/davinci/ov8858_foxconn_pad/multiframe.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/davinci/s5k4e1_sunny_kivi/imgproc.xml:system/etc/camera/davinci/s5k4e1_sunny_kivi/imgproc.xml \
     vendor/huawei/kiwi/proprietary/etc/camera/dflash/calibration_000.txt:system/etc/camera/dflash/calibration_000.txt \
     vendor/huawei/kiwi/proprietary/etc/camera/dflash/calibration_001.txt:system/etc/camera/dflash/calibration_001.txt \
@@ -173,7 +165,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/etc/sound_param/kiw_l/nxp/Tfa9895_coefficient.config:system/etc/sound_param/kiw_l/nxp/Tfa9895_coefficient.config \
     vendor/huawei/kiwi/proprietary/global/ons/ons.bin:system/global/ons/ons.bin \
     vendor/huawei/kiwi/proprietary/lib/lib_oeminfo_interface.so:system/lib/lib_oeminfo_interface.so \
-    vendor/huawei/kiwi/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
     vendor/huawei/kiwi/proprietary/lib/libdmd.so:system/lib/libdmd.so \
     vendor/huawei/kiwi/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/huawei/kiwi/proprietary/lib/libhuawei_secure.so:system/lib/libhuawei_secure.so \
@@ -222,32 +213,15 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libacdb-fts.so:system/vendor/lib/libacdb-fts.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_a3907.so:system/vendor/lib/libactuator_a3907.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_a3907_camcorder.so:system/vendor/lib/libactuator_a3907_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_a3907_camera.so:system/vendor/lib/libactuator_a3907_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ar1335_sunny_f13m01f.so:system/vendor/lib/libactuator_ar1335_sunny_f13m01f.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ar1335_sunny_f13m01f_camcorder.so:system/vendor/lib/libactuator_ar1335_sunny_f13m01f_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ar1335_sunny_f13m01f_camera.so:system/vendor/lib/libactuator_ar1335_sunny_f13m01f_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9714.so:system/vendor/lib/libactuator_dw9714.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9714_13p1ba.so:system/vendor/lib/libactuator_dw9714_13p1ba.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9714_13p1ba_camcorder.so:system/vendor/lib/libactuator_dw9714_13p1ba_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9714_13p1ba_camera.so:system/vendor/lib/libactuator_dw9714_13p1ba_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9714_camcorder.so:system/vendor/lib/libactuator_dw9714_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9714_camera.so:system/vendor/lib/libactuator_dw9714_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9714_q13n04a.so:system/vendor/lib/libactuator_dw9714_q13n04a.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9714_q13n04a_camcorder.so:system/vendor/lib/libactuator_dw9714_q13n04a_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9714_q13n04a_camera.so:system/vendor/lib/libactuator_dw9714_q13n04a_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9714_q13v04b.so:system/vendor/lib/libactuator_dw9714_q13v04b.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9714_q13v04b_camcorder.so:system/vendor/lib/libactuator_dw9714_q13v04b_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9714_q13v04b_camera.so:system/vendor/lib/libactuator_dw9714_q13v04b_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9716.so:system/vendor/lib/libactuator_dw9716.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9716_camcorder.so:system/vendor/lib/libactuator_dw9716_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_dw9716_camera.so:system/vendor/lib/libactuator_dw9716_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx214_foxconn.so:system/vendor/lib/libactuator_imx214_foxconn.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx214_foxconn_camcorder.so:system/vendor/lib/libactuator_imx214_foxconn_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx214_foxconn_camera.so:system/vendor/lib/libactuator_imx214_foxconn_camera.so \
@@ -279,91 +253,43 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx328_sunny_camcorder.so:system/vendor/lib/libactuator_imx328_sunny_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx328_sunny_camera.so:system/vendor/lib/libactuator_imx328_sunny_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx328_sunny_p13n10a.so:system/vendor/lib/libactuator_imx328_sunny_p13n10a.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx328_sunny_p13n10a_ale.so:system/vendor/lib/libactuator_imx328_sunny_p13n10a_ale.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx328_sunny_p13n10a_ale_camcorder.so:system/vendor/lib/libactuator_imx328_sunny_p13n10a_ale_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx328_sunny_p13n10a_ale_camera.so:system/vendor/lib/libactuator_imx328_sunny_p13n10a_ale_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx328_sunny_p13n10a_camcorder.so:system/vendor/lib/libactuator_imx328_sunny_p13n10a_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx328_sunny_p13n10a_camera.so:system/vendor/lib/libactuator_imx328_sunny_p13n10a_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx328_sunny_p13n10a_chm.so:system/vendor/lib/libactuator_imx328_sunny_p13n10a_chm.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx328_sunny_p13n10a_chm_camcorder.so:system/vendor/lib/libactuator_imx328_sunny_p13n10a_chm_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_imx328_sunny_p13n10a_chm_camera.so:system/vendor/lib/libactuator_imx328_sunny_p13n10a_chm_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_iu074.so:system/vendor/lib/libactuator_iu074.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_iu074_camcorder.so:system/vendor/lib/libactuator_iu074_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_iu074_camera.so:system/vendor/lib/libactuator_iu074_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov12830.so:system/vendor/lib/libactuator_ov12830.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov12830_camcorder.so:system/vendor/lib/libactuator_ov12830_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov12830_camera.so:system/vendor/lib/libactuator_ov12830_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_liteon.so:system/vendor/lib/libactuator_ov13850_liteon.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_liteon_193.so:system/vendor/lib/libactuator_ov13850_liteon_193.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_liteon_193_camcorder.so:system/vendor/lib/libactuator_ov13850_liteon_193_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_liteon_193_camera.so:system/vendor/lib/libactuator_ov13850_liteon_193_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_liteon_camcorder.so:system/vendor/lib/libactuator_ov13850_liteon_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_liteon_camera.so:system/vendor/lib/libactuator_ov13850_liteon_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_liteon_p13v01h_ale.so:system/vendor/lib/libactuator_ov13850_liteon_p13v01h_ale.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_liteon_p13v01h_ale_camcorder.so:system/vendor/lib/libactuator_ov13850_liteon_p13v01h_ale_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_liteon_p13v01h_ale_camera.so:system/vendor/lib/libactuator_ov13850_liteon_p13v01h_ale_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_liteon_p13v01h_chm.so:system/vendor/lib/libactuator_ov13850_liteon_p13v01h_chm.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_liteon_p13v01h_chm_camcorder.so:system/vendor/lib/libactuator_ov13850_liteon_p13v01h_chm_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_liteon_p13v01h_chm_camera.so:system/vendor/lib/libactuator_ov13850_liteon_p13v01h_chm_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_ofilm_ohw8a04.so:system/vendor/lib/libactuator_ov13850_ofilm_ohw8a04.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_ofilm_ohw8a04_camcorder.so:system/vendor/lib/libactuator_ov13850_ofilm_ohw8a04_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_ofilm_ohw8a04_camera.so:system/vendor/lib/libactuator_ov13850_ofilm_ohw8a04_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_ofilm_ohwba03_ale.so:system/vendor/lib/libactuator_ov13850_ofilm_ohwba03_ale.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_ofilm_ohwba03_ale_camcorder.so:system/vendor/lib/libactuator_ov13850_ofilm_ohwba03_ale_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_ofilm_ohwba03_ale_camera.so:system/vendor/lib/libactuator_ov13850_ofilm_ohwba03_ale_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_ofilm_ohwba03_chm.so:system/vendor/lib/libactuator_ov13850_ofilm_ohwba03_chm.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_ofilm_ohwba03_chm_camcorder.so:system/vendor/lib/libactuator_ov13850_ofilm_ohwba03_chm_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_ofilm_ohwba03_chm_camera.so:system/vendor/lib/libactuator_ov13850_ofilm_ohwba03_chm_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_sunny_p13v01h.so:system/vendor/lib/libactuator_ov13850_sunny_p13v01h.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_sunny_p13v01h_camcorder.so:system/vendor/lib/libactuator_ov13850_sunny_p13v01h_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov13850_sunny_p13v01h_camera.so:system/vendor/lib/libactuator_ov13850_sunny_p13v01h_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov5648_sunny_p5v18g.so:system/vendor/lib/libactuator_ov5648_sunny_p5v18g.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov5648_sunny_p5v18g_camcorder.so:system/vendor/lib/libactuator_ov5648_sunny_p5v18g_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov5648_sunny_p5v18g_camera.so:system/vendor/lib/libactuator_ov5648_sunny_p5v18g_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov5670_ofilm_ohw5a03.so:system/vendor/lib/libactuator_ov5670_ofilm_ohw5a03.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov5670_ofilm_ohw5a03_camcorder.so:system/vendor/lib/libactuator_ov5670_ofilm_ohw5a03_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov5670_ofilm_ohw5a03_camera.so:system/vendor/lib/libactuator_ov5670_ofilm_ohw5a03_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov8825.so:system/vendor/lib/libactuator_ov8825.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov8825_camcorder.so:system/vendor/lib/libactuator_ov8825_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov8825_camera.so:system/vendor/lib/libactuator_ov8825_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov8858_foxconn.so:system/vendor/lib/libactuator_ov8858_foxconn.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov8858_foxconn_camcorder.so:system/vendor/lib/libactuator_ov8858_foxconn_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov8858_foxconn_camera.so:system/vendor/lib/libactuator_ov8858_foxconn_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov8858_foxconn_pad.so:system/vendor/lib/libactuator_ov8858_foxconn_pad.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov8858_foxconn_pad_camcorder.so:system/vendor/lib/libactuator_ov8858_foxconn_pad_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_ov8858_foxconn_pad_camera.so:system/vendor/lib/libactuator_ov8858_foxconn_pad_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_rohm_bu64243gwz.so:system/vendor/lib/libactuator_rohm_bu64243gwz.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_rohm_bu64243gwz_camcorder.so:system/vendor/lib/libactuator_rohm_bu64243gwz_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_rohm_bu64243gwz_camera.so:system/vendor/lib/libactuator_rohm_bu64243gwz_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_s5k3m2_sunny_kiw.so:system/vendor/lib/libactuator_s5k3m2_sunny_kiw.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_s5k3m2_sunny_kiw_camcorder.so:system/vendor/lib/libactuator_s5k3m2_sunny_kiw_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_s5k3m2_sunny_kiw_camera.so:system/vendor/lib/libactuator_s5k3m2_sunny_kiw_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_s5k4e1_liteon_13p1.so:system/vendor/lib/libactuator_s5k4e1_liteon_13p1.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_s5k4e1_liteon_13p1_camcorder.so:system/vendor/lib/libactuator_s5k4e1_liteon_13p1_camcorder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_s5k4e1_liteon_13p1_camera.so:system/vendor/lib/libactuator_s5k4e1_liteon_13p1_camera.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_s5k5e2_foxconn_hc0806.so:system/vendor/lib/libactuator_s5k5e2_foxconn_hc0806.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camcorder.so:system/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camcorder.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camera.so:system/vendor/lib/libactuator_s5k5e2_foxconn_hc0806_camera.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libcalmodule_akm.so:system/vendor/lib/libcalmodule_akm.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libcalmodule_common.so:system/vendor/lib/libcalmodule_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_common.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_default_video.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_120fps.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_60fps.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_90fps.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_liveshot.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_preview.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_snapshot.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_video_hd.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_zsl.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_SKUAA_ST_gc0339_common.so:system/vendor/lib/libchromatix_SKUAA_ST_gc0339_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_SKUAA_ST_gc0339_default_video.so:system/vendor/lib/libchromatix_SKUAA_ST_gc0339_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_SKUAA_ST_gc0339_preview.so:system/vendor/lib/libchromatix_SKUAA_ST_gc0339_preview.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_common.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_default_video.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_default_video.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_hfr_120fps.so:system/vendor/lib/libchromatix_SKUAB_ST_s5k4e1_hfr_120fps.so \
@@ -379,31 +305,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ar1335_sunny_f13m01f_liveshot.so:system/vendor/lib/libchromatix_ar1335_sunny_f13m01f_liveshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ar1335_sunny_f13m01f_preview.so:system/vendor/lib/libchromatix_ar1335_sunny_f13m01f_preview.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ar1335_sunny_f13m01f_snapshot.so:system/vendor/lib/libchromatix_ar1335_sunny_f13m01f_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_common.so:system/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_default_video.so:system/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_pad_common.so:system/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_pad_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_pad_default_video.so:system/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_pad_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_pad_preview.so:system/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_pad_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_preview.so:system/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx132_common.so:system/vendor/lib/libchromatix_imx132_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx132_default_video.so:system/vendor/lib/libchromatix_imx132_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx132_liveshot.so:system/vendor/lib/libchromatix_imx132_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx132_preview.so:system/vendor/lib/libchromatix_imx132_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx132_snapshot.so:system/vendor/lib/libchromatix_imx132_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx134_common.so:system/vendor/lib/libchromatix_imx134_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx134_default_video.so:system/vendor/lib/libchromatix_imx134_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx134_hfr_120.so:system/vendor/lib/libchromatix_imx134_hfr_120.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx134_hfr_60.so:system/vendor/lib/libchromatix_imx134_hfr_60.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx134_preview.so:system/vendor/lib/libchromatix_imx134_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx134_snapshot.so:system/vendor/lib/libchromatix_imx134_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx135_common.so:system/vendor/lib/libchromatix_imx135_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx135_default_video.so:system/vendor/lib/libchromatix_imx135_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx135_hfr_120.so:system/vendor/lib/libchromatix_imx135_hfr_120.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx135_hfr_60.so:system/vendor/lib/libchromatix_imx135_hfr_60.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx135_hfr_90.so:system/vendor/lib/libchromatix_imx135_hfr_90.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx135_preview.so:system/vendor/lib/libchromatix_imx135_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx135_snapshot.so:system/vendor/lib/libchromatix_imx135_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx135_video_hd.so:system/vendor/lib/libchromatix_imx135_video_hd.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx214_common.so:system/vendor/lib/libchromatix_imx214_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx214_default_video.so:system/vendor/lib/libchromatix_imx214_default_video.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx214_foxconn_10m30fps.so:system/vendor/lib/libchromatix_imx214_foxconn_10m30fps.so \
@@ -471,230 +372,35 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx219_ofilm_zsl_preview.so:system/vendor/lib/libchromatix_imx219_ofilm_zsl_preview.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_common.so:system/vendor/lib/libchromatix_imx328_sunny_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_default_video.so:system/vendor/lib/libchromatix_imx328_sunny_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_p13n10a_ale_common.so:system/vendor/lib/libchromatix_imx328_sunny_p13n10a_ale_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_p13n10a_ale_default_video.so:system/vendor/lib/libchromatix_imx328_sunny_p13n10a_ale_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_p13n10a_ale_preview.so:system/vendor/lib/libchromatix_imx328_sunny_p13n10a_ale_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_p13n10a_ale_snapshot.so:system/vendor/lib/libchromatix_imx328_sunny_p13n10a_ale_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_p13n10a_chm_common.so:system/vendor/lib/libchromatix_imx328_sunny_p13n10a_chm_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_p13n10a_chm_default_video.so:system/vendor/lib/libchromatix_imx328_sunny_p13n10a_chm_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_p13n10a_chm_preview.so:system/vendor/lib/libchromatix_imx328_sunny_p13n10a_chm_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_p13n10a_chm_snapshot.so:system/vendor/lib/libchromatix_imx328_sunny_p13n10a_chm_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_p13n10a_common.so:system/vendor/lib/libchromatix_imx328_sunny_p13n10a_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_p13n10a_default_video.so:system/vendor/lib/libchromatix_imx328_sunny_p13n10a_default_video.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_p13n10a_preview.so:system/vendor/lib/libchromatix_imx328_sunny_p13n10a_preview.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_p13n10a_snapshot.so:system/vendor/lib/libchromatix_imx328_sunny_p13n10a_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_preview.so:system/vendor/lib/libchromatix_imx328_sunny_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_imx328_sunny_snapshot.so:system/vendor/lib/libchromatix_imx328_sunny_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_common.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_default_video.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_common.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_default_video.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_preview.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_snapshot.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_g620s_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_preview.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_snapshot.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_common.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_default_video.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_preview.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_snapshot.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_y550_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_common.so:system/vendor/lib/libchromatix_ov13850_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_default_video.so:system/vendor/lib/libchromatix_ov13850_default_video.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_hfr_120fps.so:system/vendor/lib/libchromatix_ov13850_hfr_120fps.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_hfr_60fps.so:system/vendor/lib/libchromatix_ov13850_hfr_60fps.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_hfr_90fps.so:system/vendor/lib/libchromatix_ov13850_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_193_common.so:system/vendor/lib/libchromatix_ov13850_liteon_193_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_193_default_video.so:system/vendor/lib/libchromatix_ov13850_liteon_193_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_193_preview.so:system/vendor/lib/libchromatix_ov13850_liteon_193_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_193_snapshot.so:system/vendor/lib/libchromatix_ov13850_liteon_193_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_common.so:system/vendor/lib/libchromatix_ov13850_liteon_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_default_video.so:system/vendor/lib/libchromatix_ov13850_liteon_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_hfr_120fps.so:system/vendor/lib/libchromatix_ov13850_liteon_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_hfr_60fps.so:system/vendor/lib/libchromatix_ov13850_liteon_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_hfr_90fps.so:system/vendor/lib/libchromatix_ov13850_liteon_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_p13v01h_ale_common.so:system/vendor/lib/libchromatix_ov13850_liteon_p13v01h_ale_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_p13v01h_ale_default_video.so:system/vendor/lib/libchromatix_ov13850_liteon_p13v01h_ale_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_p13v01h_ale_preview.so:system/vendor/lib/libchromatix_ov13850_liteon_p13v01h_ale_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_p13v01h_ale_snapshot.so:system/vendor/lib/libchromatix_ov13850_liteon_p13v01h_ale_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_p13v01h_chm_common.so:system/vendor/lib/libchromatix_ov13850_liteon_p13v01h_chm_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_p13v01h_chm_default_video.so:system/vendor/lib/libchromatix_ov13850_liteon_p13v01h_chm_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_p13v01h_chm_preview.so:system/vendor/lib/libchromatix_ov13850_liteon_p13v01h_chm_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_p13v01h_chm_snapshot.so:system/vendor/lib/libchromatix_ov13850_liteon_p13v01h_chm_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_preview.so:system/vendor/lib/libchromatix_ov13850_liteon_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_liteon_snapshot.so:system/vendor/lib/libchromatix_ov13850_liteon_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohw8a04_common.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohw8a04_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohw8a04_default_video.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohw8a04_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohw8a04_preview.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohw8a04_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohw8a04_snapshot.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohw8a04_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_ale_common.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_ale_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_ale_default_video.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_ale_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_ale_preview.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_ale_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_ale_snapshot.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_ale_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_chm_common.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_chm_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_chm_default_video.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_chm_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_chm_preview.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_chm_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_chm_snapshot.so:system/vendor/lib/libchromatix_ov13850_ofilm_ohwba03_chm_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_preview.so:system/vendor/lib/libchromatix_ov13850_preview.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_snapshot.so:system/vendor/lib/libchromatix_ov13850_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_sunny_p13v01h_common.so:system/vendor/lib/libchromatix_ov13850_sunny_p13v01h_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_sunny_p13v01h_default_video.so:system/vendor/lib/libchromatix_ov13850_sunny_p13v01h_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_sunny_p13v01h_preview.so:system/vendor/lib/libchromatix_ov13850_sunny_p13v01h_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov13850_sunny_p13v01h_snapshot.so:system/vendor/lib/libchromatix_ov13850_sunny_p13v01h_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov16825_common.so:system/vendor/lib/libchromatix_ov16825_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov16825_default_video.so:system/vendor/lib/libchromatix_ov16825_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov16825_preview.so:system/vendor/lib/libchromatix_ov16825_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov16825_snapshot.so:system/vendor/lib/libchromatix_ov16825_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_common.so:system/vendor/lib/libchromatix_ov2680_5987fhq_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_default_video.so:system/vendor/lib/libchromatix_ov2680_5987fhq_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_preview.so:system/vendor/lib/libchromatix_ov2680_5987fhq_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_snapshot.so:system/vendor/lib/libchromatix_ov2680_5987fhq_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_byd_bm2920b_common.so:system/vendor/lib/libchromatix_ov2680_byd_bm2920b_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_byd_bm2920b_default_video.so:system/vendor/lib/libchromatix_ov2680_byd_bm2920b_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_byd_bm2920b_pad_common.so:system/vendor/lib/libchromatix_ov2680_byd_bm2920b_pad_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_byd_bm2920b_pad_default_video.so:system/vendor/lib/libchromatix_ov2680_byd_bm2920b_pad_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_byd_bm2920b_pad_preview.so:system/vendor/lib/libchromatix_ov2680_byd_bm2920b_pad_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_byd_bm2920b_pad_snapshot.so:system/vendor/lib/libchromatix_ov2680_byd_bm2920b_pad_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_byd_bm2920b_preview.so:system/vendor/lib/libchromatix_ov2680_byd_bm2920b_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_byd_bm2920b_snapshot.so:system/vendor/lib/libchromatix_ov2680_byd_bm2920b_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_common.so:system/vendor/lib/libchromatix_ov2680_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_default_video.so:system/vendor/lib/libchromatix_ov2680_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_ofilm_fe16_common.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_ofilm_fe16_default_video.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_common.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_default_video.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_preview.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_snapshot.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_g620s_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_ofilm_fe16_preview.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_ofilm_fe16_snapshot.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_common.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_default_video.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_preview.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_snapshot.so:system/vendor/lib/libchromatix_ov2680_ofilm_fe16_y550_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_preview.so:system/vendor/lib/libchromatix_ov2680_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2680_snapshot.so:system/vendor/lib/libchromatix_ov2680_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2720_common.so:system/vendor/lib/libchromatix_ov2720_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2720_default_video.so:system/vendor/lib/libchromatix_ov2720_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2720_hfr.so:system/vendor/lib/libchromatix_ov2720_hfr.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2720_liveshot.so:system/vendor/lib/libchromatix_ov2720_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2720_preview.so:system/vendor/lib/libchromatix_ov2720_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov2720_zsl.so:system/vendor/lib/libchromatix_ov2720_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_ale_common.so:system/vendor/lib/libchromatix_ov5648_foxconn_ale_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_ale_default_video.so:system/vendor/lib/libchromatix_ov5648_foxconn_ale_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_ale_preview.so:system/vendor/lib/libchromatix_ov5648_foxconn_ale_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_ale_snapshot.so:system/vendor/lib/libchromatix_ov5648_foxconn_ale_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_cherry_common.so:system/vendor/lib/libchromatix_ov5648_foxconn_cherry_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_cherry_default_video.so:system/vendor/lib/libchromatix_ov5648_foxconn_cherry_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_cherry_preview.so:system/vendor/lib/libchromatix_ov5648_foxconn_cherry_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_cherry_snapshot.so:system/vendor/lib/libchromatix_ov5648_foxconn_cherry_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_chm_common.so:system/vendor/lib/libchromatix_ov5648_foxconn_chm_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_chm_default_video.so:system/vendor/lib/libchromatix_ov5648_foxconn_chm_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_chm_preview.so:system/vendor/lib/libchromatix_ov5648_foxconn_chm_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_chm_snapshot.so:system/vendor/lib/libchromatix_ov5648_foxconn_chm_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_common.so:system/vendor/lib/libchromatix_ov5648_foxconn_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_default_video.so:system/vendor/lib/libchromatix_ov5648_foxconn_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_g760_common.so:system/vendor/lib/libchromatix_ov5648_foxconn_g760_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_g760_default_video.so:system/vendor/lib/libchromatix_ov5648_foxconn_g760_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_g760_preview.so:system/vendor/lib/libchromatix_ov5648_foxconn_g760_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_g760_snapshot.so:system/vendor/lib/libchromatix_ov5648_foxconn_g760_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_kivi_common.so:system/vendor/lib/libchromatix_ov5648_foxconn_kivi_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_kivi_default_video.so:system/vendor/lib/libchromatix_ov5648_foxconn_kivi_default_video.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_kivi_preview.so:system/vendor/lib/libchromatix_ov5648_foxconn_kivi_preview.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_kivi_snapshot.so:system/vendor/lib/libchromatix_ov5648_foxconn_kivi_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_preview.so:system/vendor/lib/libchromatix_ov5648_foxconn_preview.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_foxconn_snapshot.so:system/vendor/lib/libchromatix_ov5648_foxconn_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_ale_common.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_ale_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_ale_default_video.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_ale_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_ale_preview.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_ale_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_ale_snapshot.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_ale_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_chm_common.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_chm_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_chm_default_video.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_chm_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_chm_preview.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_chm_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_chm_snapshot.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_chm_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_kiw_common.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_kiw_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_kiw_default_video.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_kiw_default_video.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_kiw_preview.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_kiw_preview.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_kiw_snapshot.so:system/vendor/lib/libchromatix_ov5648_ofilm_ohw5f03_kiw_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_oty5f03_common.so:system/vendor/lib/libchromatix_ov5648_oty5f03_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_oty5f03_default_video.so:system/vendor/lib/libchromatix_ov5648_oty5f03_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_oty5f03_preview.so:system/vendor/lib/libchromatix_ov5648_oty5f03_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_oty5f03_snapshot.so:system/vendor/lib/libchromatix_ov5648_oty5f03_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_oty5f03_zsl.so:system/vendor/lib/libchromatix_ov5648_oty5f03_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_common.so:system/vendor/lib/libchromatix_ov5648_p5v18g_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_default_video.so:system/vendor/lib/libchromatix_ov5648_p5v18g_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_default_video_hd.so:system/vendor/lib/libchromatix_ov5648_p5v18g_default_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_preview.so:system/vendor/lib/libchromatix_ov5648_p5v18g_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_snapshot.so:system/vendor/lib/libchromatix_ov5648_p5v18g_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_zsl.so:system/vendor/lib/libchromatix_ov5648_p5v18g_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_q5v22e_common.so:system/vendor/lib/libchromatix_ov5648_q5v22e_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_q5v22e_default_video.so:system/vendor/lib/libchromatix_ov5648_q5v22e_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_q5v22e_default_video_hd.so:system/vendor/lib/libchromatix_ov5648_q5v22e_default_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_q5v22e_preview.so:system/vendor/lib/libchromatix_ov5648_q5v22e_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_q5v22e_snapshot.so:system/vendor/lib/libchromatix_ov5648_q5v22e_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_q5v22e_zsl.so:system/vendor/lib/libchromatix_ov5648_q5v22e_zsl.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_sunny_p5v18g_common.so:system/vendor/lib/libchromatix_ov5648_sunny_p5v18g_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_sunny_p5v18g_default_video.so:system/vendor/lib/libchromatix_ov5648_sunny_p5v18g_default_video.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_sunny_p5v18g_default_video_hd.so:system/vendor/lib/libchromatix_ov5648_sunny_p5v18g_default_video_hd.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_sunny_p5v18g_preview.so:system/vendor/lib/libchromatix_ov5648_sunny_p5v18g_preview.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_sunny_p5v18g_snapshot.so:system/vendor/lib/libchromatix_ov5648_sunny_p5v18g_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_sunny_p5v18g_zsl.so:system/vendor/lib/libchromatix_ov5648_sunny_p5v18g_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_sunny_p5v36d_common.so:system/vendor/lib/libchromatix_ov5648_sunny_p5v36d_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_sunny_p5v36d_default_video.so:system/vendor/lib/libchromatix_ov5648_sunny_p5v36d_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_sunny_p5v36d_default_video_hd.so:system/vendor/lib/libchromatix_ov5648_sunny_p5v36d_default_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_sunny_p5v36d_preview.so:system/vendor/lib/libchromatix_ov5648_sunny_p5v36d_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_sunny_p5v36d_snapshot.so:system/vendor/lib/libchromatix_ov5648_sunny_p5v36d_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5648_sunny_p5v36d_zsl.so:system/vendor/lib/libchromatix_ov5648_sunny_p5v36d_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_common.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_default_video.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_hfr_120fps.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_hfr_60fps.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_hfr_90fps.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_liveshot.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_preview.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_snapshot.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_video_hd.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_byd_cht854b_zsl.so:system/vendor/lib/libchromatix_ov5670_byd_cht854b_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_common.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_default_video.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_hfr_120fps.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_hfr_60fps.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_hfr_90fps.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_liveshot.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_preview.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_snapshot.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_video_hd.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_zsl.so:system/vendor/lib/libchromatix_ov5670_ofilm_ohw5a03_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_common.so:system/vendor/lib/libchromatix_ov5670_q5v41b_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_default_video.so:system/vendor/lib/libchromatix_ov5670_q5v41b_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_hfr_120fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_hfr_60fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_hfr_90fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_liveshot.so:system/vendor/lib/libchromatix_ov5670_q5v41b_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_preview.so:system/vendor/lib/libchromatix_ov5670_q5v41b_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_snapshot.so:system/vendor/lib/libchromatix_ov5670_q5v41b_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_video_hd.so:system/vendor/lib/libchromatix_ov5670_q5v41b_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_zsl.so:system/vendor/lib/libchromatix_ov5670_q5v41b_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_sunny_p5v42b_common.so:system/vendor/lib/libchromatix_ov5670_sunny_p5v42b_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_sunny_p5v42b_default_video.so:system/vendor/lib/libchromatix_ov5670_sunny_p5v42b_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_sunny_p5v42b_hfr_120fps.so:system/vendor/lib/libchromatix_ov5670_sunny_p5v42b_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_sunny_p5v42b_hfr_60fps.so:system/vendor/lib/libchromatix_ov5670_sunny_p5v42b_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_sunny_p5v42b_hfr_90fps.so:system/vendor/lib/libchromatix_ov5670_sunny_p5v42b_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_sunny_p5v42b_liveshot.so:system/vendor/lib/libchromatix_ov5670_sunny_p5v42b_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_sunny_p5v42b_preview.so:system/vendor/lib/libchromatix_ov5670_sunny_p5v42b_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_sunny_p5v42b_snapshot.so:system/vendor/lib/libchromatix_ov5670_sunny_p5v42b_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_sunny_p5v42b_video_hd.so:system/vendor/lib/libchromatix_ov5670_sunny_p5v42b_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov5670_sunny_p5v42b_zsl.so:system/vendor/lib/libchromatix_ov5670_sunny_p5v42b_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_common.so:system/vendor/lib/libchromatix_ov8825_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_default_video.so:system/vendor/lib/libchromatix_ov8825_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_hfr_120fps.so:system/vendor/lib/libchromatix_ov8825_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_hfr_60fps.so:system/vendor/lib/libchromatix_ov8825_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_hfr_90fps.so:system/vendor/lib/libchromatix_ov8825_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_liveshot.so:system/vendor/lib/libchromatix_ov8825_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_liveshot_hd.so:system/vendor/lib/libchromatix_ov8825_liveshot_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_preview.so:system/vendor/lib/libchromatix_ov8825_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_preview_hd.so:system/vendor/lib/libchromatix_ov8825_preview_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_snapshot.so:system/vendor/lib/libchromatix_ov8825_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_snapshot_hd.so:system/vendor/lib/libchromatix_ov8825_snapshot_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_video_hd.so:system/vendor/lib/libchromatix_ov8825_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8825_zsl.so:system/vendor/lib/libchromatix_ov8825_zsl.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_common.so:system/vendor/lib/libchromatix_ov8858_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_default_video.so:system/vendor/lib/libchromatix_ov8858_default_video.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_foxconn_common.so:system/vendor/lib/libchromatix_ov8858_foxconn_common.so \
@@ -712,58 +418,12 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_hfr_90fps.so:system/vendor/lib/libchromatix_ov8858_hfr_90fps.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_liveshot.so:system/vendor/lib/libchromatix_ov8858_liveshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_preview.so:system/vendor/lib/libchromatix_ov8858_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_common.so:system/vendor/lib/libchromatix_ov8858_q8v19w_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_default_video.so:system/vendor/lib/libchromatix_ov8858_q8v19w_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_hfr_120fps.so:system/vendor/lib/libchromatix_ov8858_q8v19w_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_hfr_60fps.so:system/vendor/lib/libchromatix_ov8858_q8v19w_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_hfr_90fps.so:system/vendor/lib/libchromatix_ov8858_q8v19w_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_liveshot.so:system/vendor/lib/libchromatix_ov8858_q8v19w_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_preview.so:system/vendor/lib/libchromatix_ov8858_q8v19w_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_snapshot.so:system/vendor/lib/libchromatix_ov8858_q8v19w_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_zsl.so:system/vendor/lib/libchromatix_ov8858_q8v19w_zsl.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8858_snapshot.so:system/vendor/lib/libchromatix_ov8858_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_common.so:system/vendor/lib/libchromatix_ov8865_q8v18a_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_default_video.so:system/vendor/lib/libchromatix_ov8865_q8v18a_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_hfr_120fps.so:system/vendor/lib/libchromatix_ov8865_q8v18a_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_hfr_60fps.so:system/vendor/lib/libchromatix_ov8865_q8v18a_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_hfr_90fps.so:system/vendor/lib/libchromatix_ov8865_q8v18a_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_liveshot.so:system/vendor/lib/libchromatix_ov8865_q8v18a_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_preview.so:system/vendor/lib/libchromatix_ov8865_q8v18a_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_snapshot.so:system/vendor/lib/libchromatix_ov8865_q8v18a_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_video_hd.so:system/vendor/lib/libchromatix_ov8865_q8v18a_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_zsl.so:system/vendor/lib/libchromatix_ov8865_q8v18a_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov9724_common.so:system/vendor/lib/libchromatix_ov9724_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov9724_default_video.so:system/vendor/lib/libchromatix_ov9724_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov9724_foxconn_common.so:system/vendor/lib/libchromatix_ov9724_foxconn_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov9724_foxconn_default_video.so:system/vendor/lib/libchromatix_ov9724_foxconn_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov9724_foxconn_preview.so:system/vendor/lib/libchromatix_ov9724_foxconn_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov9724_liveshot.so:system/vendor/lib/libchromatix_ov9724_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_ov9724_preview.so:system/vendor/lib/libchromatix_ov9724_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3l1yx_common.so:system/vendor/lib/libchromatix_s5k3l1yx_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3l1yx_default_video.so:system/vendor/lib/libchromatix_s5k3l1yx_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3l1yx_hfr_120fps.so:system/vendor/lib/libchromatix_s5k3l1yx_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3l1yx_hfr_60fps.so:system/vendor/lib/libchromatix_s5k3l1yx_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3l1yx_hfr_90fps.so:system/vendor/lib/libchromatix_s5k3l1yx_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3l1yx_liveshot.so:system/vendor/lib/libchromatix_s5k3l1yx_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3l1yx_preview.so:system/vendor/lib/libchromatix_s5k3l1yx_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3l1yx_snapshot.so:system/vendor/lib/libchromatix_s5k3l1yx_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3l1yx_video_hd.so:system/vendor/lib/libchromatix_s5k3l1yx_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3l1yx_zsl.so:system/vendor/lib/libchromatix_s5k3l1yx_zsl.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3m2_sunny_kiw_common.so:system/vendor/lib/libchromatix_s5k3m2_sunny_kiw_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3m2_sunny_kiw_hfr_120fps.so:system/vendor/lib/libchromatix_s5k3m2_sunny_kiw_hfr_120fps.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3m2_sunny_kiw_preview.so:system/vendor/lib/libchromatix_s5k3m2_sunny_kiw_preview.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3m2_sunny_kiw_snapshot.so:system/vendor/lib/libchromatix_s5k3m2_sunny_kiw_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k3m2_sunny_kiw_video.so:system/vendor/lib/libchromatix_s5k3m2_sunny_kiw_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_common.so:system/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_default_video.so:system/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_hfr_120fps.so:system/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_hfr_60fps.so:system/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_hfr_90fps.so:system/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_liveshot.so:system/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_preview.so:system/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_snapshot.so:system/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_video_hd.so:system/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_zsl.so:system/vendor/lib/libchromatix_s5k4e1_foxconn_dc0301a_zsl.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_liteon_13p1_common.so:system/vendor/lib/libchromatix_s5k4e1_liteon_13p1_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_liteon_13p1_default_video.so:system/vendor/lib/libchromatix_s5k4e1_liteon_13p1_default_video.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_liteon_13p1_hfr_120fps.so:system/vendor/lib/libchromatix_s5k4e1_liteon_13p1_hfr_120fps.so \
@@ -774,71 +434,14 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_liteon_13p1_snapshot.so:system/vendor/lib/libchromatix_s5k4e1_liteon_13p1_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_liteon_13p1_video_hd.so:system/vendor/lib/libchromatix_s5k4e1_liteon_13p1_video_hd.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_liteon_13p1_zsl.so:system/vendor/lib/libchromatix_s5k4e1_liteon_13p1_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_ale_common.so:system/vendor/lib/libchromatix_s5k4e1_sunny_ale_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_ale_default_video.so:system/vendor/lib/libchromatix_s5k4e1_sunny_ale_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_ale_preview.so:system/vendor/lib/libchromatix_s5k4e1_sunny_ale_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_ale_snapshot.so:system/vendor/lib/libchromatix_s5k4e1_sunny_ale_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_cherry_common.so:system/vendor/lib/libchromatix_s5k4e1_sunny_cherry_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_cherry_default_video.so:system/vendor/lib/libchromatix_s5k4e1_sunny_cherry_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_cherry_preview.so:system/vendor/lib/libchromatix_s5k4e1_sunny_cherry_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_cherry_snapshot.so:system/vendor/lib/libchromatix_s5k4e1_sunny_cherry_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_chm_common.so:system/vendor/lib/libchromatix_s5k4e1_sunny_chm_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_chm_default_video.so:system/vendor/lib/libchromatix_s5k4e1_sunny_chm_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_chm_preview.so:system/vendor/lib/libchromatix_s5k4e1_sunny_chm_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_chm_snapshot.so:system/vendor/lib/libchromatix_s5k4e1_sunny_chm_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_common.so:system/vendor/lib/libchromatix_s5k4e1_sunny_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_default_video.so:system/vendor/lib/libchromatix_s5k4e1_sunny_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_g760_common.so:system/vendor/lib/libchromatix_s5k4e1_sunny_g760_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_g760_default_video.so:system/vendor/lib/libchromatix_s5k4e1_sunny_g760_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_g760_preview.so:system/vendor/lib/libchromatix_s5k4e1_sunny_g760_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_g760_snapshot.so:system/vendor/lib/libchromatix_s5k4e1_sunny_g760_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_kivi_common.so:system/vendor/lib/libchromatix_s5k4e1_sunny_kivi_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_kivi_default_video.so:system/vendor/lib/libchromatix_s5k4e1_sunny_kivi_default_video.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_kivi_preview.so:system/vendor/lib/libchromatix_s5k4e1_sunny_kivi_preview.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_kivi_snapshot.so:system/vendor/lib/libchromatix_s5k4e1_sunny_kivi_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_preview.so:system/vendor/lib/libchromatix_s5k4e1_sunny_preview.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k4e1_sunny_snapshot.so:system/vendor/lib/libchromatix_s5k4e1_sunny_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_common.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_default_video.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_120fps.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_60fps.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_90fps.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_liveshot.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_preview.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_snapshot.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so:system/vendor/lib/libchromatix_s5k5e2_foxconn_hc0806_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_common.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_default_video.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_hfr_120fps.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_hfr_60fps.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_hfr_90fps.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_liveshot.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_preview.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_snapshot.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_video_hd.so:system/vendor/lib/libchromatix_s5k5e2_ofilm_ohw5f02_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k9a1_liteon_common.so:system/vendor/lib/libchromatix_s5k9a1_liteon_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k9a1_liteon_default_video.so:system/vendor/lib/libchromatix_s5k9a1_liteon_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k9a1_liteon_liveshot.so:system/vendor/lib/libchromatix_s5k9a1_liteon_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_s5k9a1_liteon_preview.so:system/vendor/lib/libchromatix_s5k9a1_liteon_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_common.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_default_video.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_liveshot.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_liveshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_preview.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_snapshot.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_zsl.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov12830_p12v01c_common.so:system/vendor/lib/libchromatix_skuf_ov12830_p12v01c_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov12830_p12v01c_default_video.so:system/vendor/lib/libchromatix_skuf_ov12830_p12v01c_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov12830_p12v01c_hfr_120fps.so:system/vendor/lib/libchromatix_skuf_ov12830_p12v01c_hfr_120fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov12830_p12v01c_hfr_60fps.so:system/vendor/lib/libchromatix_skuf_ov12830_p12v01c_hfr_60fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov12830_p12v01c_hfr_90fps.so:system/vendor/lib/libchromatix_skuf_ov12830_p12v01c_hfr_90fps.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov12830_p12v01c_preview.so:system/vendor/lib/libchromatix_skuf_ov12830_p12v01c_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov12830_p12v01c_snapshot.so:system/vendor/lib/libchromatix_skuf_ov12830_p12v01c_snapshot.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov12830_p12v01c_video_hd.so:system/vendor/lib/libchromatix_skuf_ov12830_p12v01c_video_hd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov12830_p12v01c_zsl.so:system/vendor/lib/libchromatix_skuf_ov12830_p12v01c_zsl.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov5648_p5v23c_common.so:system/vendor/lib/libchromatix_skuf_ov5648_p5v23c_common.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov5648_p5v23c_default_video.so:system/vendor/lib/libchromatix_skuf_ov5648_p5v23c_default_video.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov5648_p5v23c_preview.so:system/vendor/lib/libchromatix_skuf_ov5648_p5v23c_preview.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libchromatix_skuf_ov5648_p5v23c_snapshot.so:system/vendor/lib/libchromatix_skuf_ov5648_p5v23c_snapshot.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
@@ -870,19 +473,13 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera2_wnr_module.so:system/vendor/lib/libmmcamera2_wnr_module.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_S5K4E1_13P1BA.so:system/vendor/lib/libmmcamera_S5K4E1_13P1BA.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_S5K4E1_SKUHF.so:system/vendor/lib/libmmcamera_S5K4E1_SKUHF.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_SKUAA_ST_gc0339.so:system/vendor/lib/libmmcamera_SKUAA_ST_gc0339.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_SKUAB_ST_s5k4e1.so:system/vendor/lib/libmmcamera_SKUAB_ST_s5k4e1.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ar1335_sunny_f13m01f.so:system/vendor/lib/libmmcamera_ar1335_sunny_f13m01f.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_gc2355_ofilm_ohw2f03.so:system/vendor/lib/libmmcamera_gc2355_ofilm_ohw2f03.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_gc2355_ofilm_ohw2f03_pad.so:system/vendor/lib/libmmcamera_gc2355_ofilm_ohw2f03_pad.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_hdr_gb_lib.so:system/vendor/lib/libmmcamera_hdr_gb_lib.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_hi256.so:system/vendor/lib/libmmcamera_hi256.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_imx132.so:system/vendor/lib/libmmcamera_imx132.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_imx134.so:system/vendor/lib/libmmcamera_imx134.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_imx135.so:system/vendor/lib/libmmcamera_imx135.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_imx214.so:system/vendor/lib/libmmcamera_imx214.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_imx214_foxconn.so:system/vendor/lib/libmmcamera_imx214_foxconn.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_imx214_foxconn_kiw.so:system/vendor/lib/libmmcamera_imx214_foxconn_kiw.so \
@@ -898,9 +495,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_imx328_sunny_p13n10a_ale.so:system/vendor/lib/libmmcamera_imx328_sunny_p13n10a_ale.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_imx328_sunny_p13n10a_chm.so:system/vendor/lib/libmmcamera_imx328_sunny_p13n10a_chm.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_liteon_imx219_eeprom.so:system/vendor/lib/libmmcamera_liteon_imx219_eeprom.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_mt9d015_sunny_p2m19a.so:system/vendor/lib/libmmcamera_mt9d015_sunny_p2m19a.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_mt9m114.so:system/vendor/lib/libmmcamera_mt9m114.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ofilm_oty5f03_eeprom.so:system/vendor/lib/libmmcamera_ofilm_oty5f03_eeprom.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov13850.so:system/vendor/lib/libmmcamera_ov13850.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov13850_liteon.so:system/vendor/lib/libmmcamera_ov13850_liteon.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov13850_liteon_193.so:system/vendor/lib/libmmcamera_ov13850_liteon_193.so \
@@ -910,40 +504,16 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov13850_ofilm_ohwba03_ale.so:system/vendor/lib/libmmcamera_ov13850_ofilm_ohwba03_ale.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov13850_ofilm_ohwba03_chm.so:system/vendor/lib/libmmcamera_ov13850_ofilm_ohwba03_chm.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov13850_sunny_p13v01h.so:system/vendor/lib/libmmcamera_ov13850_sunny_p13v01h.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov16825.so:system/vendor/lib/libmmcamera_ov16825.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov2680.so:system/vendor/lib/libmmcamera_ov2680.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov2680_5987fhq.so:system/vendor/lib/libmmcamera_ov2680_5987fhq.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov2680_byd_bm2920b.so:system/vendor/lib/libmmcamera_ov2680_byd_bm2920b.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov2680_byd_bm2920b_pad.so:system/vendor/lib/libmmcamera_ov2680_byd_bm2920b_pad.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov2680_ofilm_fe16.so:system/vendor/lib/libmmcamera_ov2680_ofilm_fe16.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov2720.so:system/vendor/lib/libmmcamera_ov2720.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5645.so:system/vendor/lib/libmmcamera_ov5645.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5648_foxconn.so:system/vendor/lib/libmmcamera_ov5648_foxconn.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5648_foxconn_ale.so:system/vendor/lib/libmmcamera_ov5648_foxconn_ale.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5648_foxconn_chm.so:system/vendor/lib/libmmcamera_ov5648_foxconn_chm.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5648_foxconn_kivi.so:system/vendor/lib/libmmcamera_ov5648_foxconn_kivi.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5648_ofilm_ohw5f03_ale.so:system/vendor/lib/libmmcamera_ov5648_ofilm_ohw5f03_ale.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5648_ofilm_ohw5f03_chm.so:system/vendor/lib/libmmcamera_ov5648_ofilm_ohw5f03_chm.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5648_ofilm_ohw5f03_kiw.so:system/vendor/lib/libmmcamera_ov5648_ofilm_ohw5f03_kiw.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5648_oty5f03.so:system/vendor/lib/libmmcamera_ov5648_oty5f03.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5648_p5v18g.so:system/vendor/lib/libmmcamera_ov5648_p5v18g.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5648_q5v22e.so:system/vendor/lib/libmmcamera_ov5648_q5v22e.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5648_sunny_p5v18g.so:system/vendor/lib/libmmcamera_ov5648_sunny_p5v18g.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5648_sunny_p5v36d.so:system/vendor/lib/libmmcamera_ov5648_sunny_p5v36d.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5670_byd_cht854b.so:system/vendor/lib/libmmcamera_ov5670_byd_cht854b.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5670_ofilm_ohw5a03.so:system/vendor/lib/libmmcamera_ov5670_ofilm_ohw5a03.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5670_q5v41b.so:system/vendor/lib/libmmcamera_ov5670_q5v41b.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov5670_sunny_p5v42b.so:system/vendor/lib/libmmcamera_ov5670_sunny_p5v42b.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov7695.so:system/vendor/lib/libmmcamera_ov7695.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov8825.so:system/vendor/lib/libmmcamera_ov8825.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov8858.so:system/vendor/lib/libmmcamera_ov8858.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov8858_foxconn.so:system/vendor/lib/libmmcamera_ov8858_foxconn.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov8858_foxconn_pad.so:system/vendor/lib/libmmcamera_ov8858_foxconn_pad.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov8858_q8v19w.so:system/vendor/lib/libmmcamera_ov8858_q8v19w.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov8865_q8v18a.so:system/vendor/lib/libmmcamera_ov8865_q8v18a.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov9724.so:system/vendor/lib/libmmcamera_ov9724.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_ov9724_foxconn.so:system/vendor/lib/libmmcamera_ov9724_foxconn.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_s5k3l1yx.so:system/vendor/lib/libmmcamera_s5k3l1yx.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_s5k3m2_sunny_kiw.so:system/vendor/lib/libmmcamera_s5k3m2_sunny_kiw.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_s5k4e1_foxconn_dc0301a.so:system/vendor/lib/libmmcamera_s5k4e1_foxconn_dc0301a.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_s5k4e1_liteon_13p1.so:system/vendor/lib/libmmcamera_s5k4e1_liteon_13p1.so \
@@ -953,19 +523,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_s5k4e1_sunny_kivi.so:system/vendor/lib/libmmcamera_s5k4e1_sunny_kivi.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_s5k5e2_foxconn_hc0806.so:system/vendor/lib/libmmcamera_s5k5e2_foxconn_hc0806.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_s5k5e2_ofilm_ohw5f02.so:system/vendor/lib/libmmcamera_s5k5e2_ofilm_ohw5f02.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_s5k9a1_liteon.so:system/vendor/lib/libmmcamera_s5k9a1_liteon.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_skuab_shinetech_gc0339.so:system/vendor/lib/libmmcamera_skuab_shinetech_gc0339.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_skuf_ov12830_p12v01c.so:system/vendor/lib/libmmcamera_skuf_ov12830_p12v01c.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_skuf_ov5648_p5v23c.so:system/vendor/lib/libmmcamera_skuf_ov5648_p5v23c.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_sonyimx135_eeprom.so:system/vendor/lib/libmmcamera_sonyimx135_eeprom.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_sp1628.so:system/vendor/lib/libmmcamera_sp1628.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_sunny_imx214_eeprom.so:system/vendor/lib/libmmcamera_sunny_imx214_eeprom.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_sunny_p12v01m_eeprom.so:system/vendor/lib/libmmcamera_sunny_p12v01m_eeprom.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_sunny_p5v23c_eeprom.so:system/vendor/lib/libmmcamera_sunny_p5v23c_eeprom.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_sunny_q13v04b_eeprom.so:system/vendor/lib/libmmcamera_sunny_q13v04b_eeprom.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_sunny_q5v22e_eeprom.so:system/vendor/lib/libmmcamera_sunny_q5v22e_eeprom.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_sunny_q5v41b_eeprom.so:system/vendor/lib/libmmcamera_sunny_q5v41b_eeprom.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_sunny_q8v18a_eeprom.so:system/vendor/lib/libmmcamera_sunny_q8v18a_eeprom.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_tintless_algo.so:system/vendor/lib/libmmcamera_tintless_algo.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera_truly_cm7700_eeprom.so:system/vendor/lib/libmmcamera_truly_cm7700_eeprom.so \
@@ -986,7 +545,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
@@ -1014,6 +574,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib64/hw/gatekeeper.msm8916.so:system/vendor/lib64/hw/gatekeeper.msm8916.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/hw/keystore.msm8916.so:system/vendor/lib64/hw/keystore.msm8916.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/lib-imsdpl.so:system/vendor/lib64/lib-imsdpl.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/libC2D2.so:system/vendor/lib64/libC2D2.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libCB.so:system/vendor/lib64/libCB.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libFlacSwDec.so:system/vendor/lib64/libFlacSwDec.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libOpenCL.so:system/vendor/lib64/libOpenCL.so \
@@ -1028,6 +589,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libadsprpc.so:system/vendor/lib64/libadsprpc.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libaudcal.so:system/vendor/lib64/libaudcal.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libbtnv.so:system/vendor/lib64/libbtnv.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/libc2d30-a3xx.so:system/vendor/lib64/libc2d30-a3xx.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/libc2d30-a4xx.so:system/vendor/lib64/libc2d30-a4xx.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libcalmodule_akm.so:system/vendor/lib64/libcalmodule_akm.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libcalmodule_common.so:system/vendor/lib64/libcalmodule_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libcneapiclient.so:system/vendor/lib64/libcneapiclient.so \
@@ -1066,7 +629,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib64/librpmb.so:system/vendor/lib64/librpmb.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/librs_adreno.so:system/vendor/lib64/librs_adreno.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/librs_adreno_sha1.so:system/vendor/lib64/librs_adreno_sha1.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib64/libsc-a2xx.so:system/vendor/lib64/libsc-a2xx.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libsc-a3xx.so:system/vendor/lib64/libsc-a3xx.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libscale.so:system/vendor/lib64/libscale.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libsmemlog.so:system/vendor/lib64/libsmemlog.so \
