@@ -42,9 +42,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/firmware/a420_pm4.fw:system/vendor/firmware/a420_pm4.fw \
     vendor/huawei/kiwi/proprietary/vendor/firmware/athena_boe_fw.img:system/vendor/firmware/athena_boe_fw.img \
     vendor/huawei/kiwi/proprietary/vendor/firmware/athena_jdi_fw.img:system/vendor/firmware/athena_jdi_fw.img \
-    vendor/huawei/kiwi/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/huawei/kiwi/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/huawei/kiwi/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
     vendor/huawei/kiwi/proprietary/vendor/firmware/cpp_firmware_v1_4_0.fw:system/vendor/firmware/cpp_firmware_v1_4_0.fw \
     vendor/huawei/kiwi/proprietary/vendor/firmware/ice40.bin:system/vendor/firmware/ice40.bin \
     vendor/huawei/kiwi/proprietary/vendor/firmware/kiw-HB396481EBC_ATL_SCUD.fw:system/vendor/firmware/kiw-HB396481EBC_ATL_SCUD.fw \
