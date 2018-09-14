@@ -20,6 +20,30 @@ LOCAL_PATH := $(call my-dir)
 ifeq ($(TARGET_DEVICE),kiwi)
 
 include $(CLEAR_VARS)
+LOCAL_MODULE := libhuawei_secure
+LOCAL_MODULE_OWNER := huawei
+LOCAL_SRC_FILES_64 := proprietary/vendor/lib64/libhuawei_secure.so
+LOCAL_SRC_FILES_32 := proprietary/vendor/lib/libhuawei_secure.so
+LOCAL_MULTILIB := both
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX := .so
+LOCAL_VENDOR_MODULE := true
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := liboeminfo
+LOCAL_MODULE_OWNER := huawei
+LOCAL_SRC_FILES_64 := proprietary/vendor/lib64/liboeminfo.so
+LOCAL_SRC_FILES_32 := proprietary/vendor/lib/liboeminfo.so
+LOCAL_MULTILIB := both
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX := .so
+LOCAL_VENDOR_MODULE := true
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
 LOCAL_MODULE := libqmi_oem_api
 LOCAL_MODULE_OWNER := huawei
 LOCAL_SRC_FILES_64 := proprietary/vendor/lib64/libqmi_oem_api.so

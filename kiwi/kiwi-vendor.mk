@@ -26,6 +26,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
     vendor/huawei/kiwi/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
     vendor/huawei/kiwi/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
+    vendor/huawei/kiwi/proprietary/vendor/bin/oeminfo_nvm_server:system/vendor/bin/oeminfo_nvm_server \
     vendor/huawei/kiwi/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
     vendor/huawei/kiwi/proprietary/vendor/bin/qseecomd:system/vendor/bin/qseecomd \
     vendor/huawei/kiwi/proprietary/vendor/bin/radish:system/vendor/bin/radish \
@@ -84,8 +85,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/global/ons/ons.bin:system/global/ons/ons.bin \
     vendor/huawei/kiwi/proprietary/vendor/lib/lib_oeminfo_interface.so:system/vendor/lib/lib_oeminfo_interface.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libdmd.so:system/vendor/lib/libdmd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libhuawei_secure.so:system/vendor/lib/libhuawei_secure.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/liboeminfo.so:system/vendor/lib/liboeminfo.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libqmi_nv_api.so:system/vendor/lib/libqmi_nv_api.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/hw/fingerprint.msm8916.so:system/vendor/lib64/hw/fingerprint.msm8916.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/hw/fingerprintd.ex.so:system/vendor/lib64/hw/fingerprintd.ex.so \
@@ -95,8 +94,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libbtaddr.so:system/vendor/lib64/libbtaddr.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libbtpower.so:system/vendor/lib64/libbtpower.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libdmd.so:system/vendor/lib64/libdmd.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib64/libhuawei_secure.so:system/vendor/lib64/libhuawei_secure.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib64/liboeminfo.so:system/vendor/lib64/liboeminfo.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libqmi_nv_api.so:system/vendor/lib64/libqmi_nv_api.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/librmnetctl.so:system/vendor/lib64/librmnetctl.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libsecure_boot_keybox.so:system/vendor/lib64/libsecure_boot_keybox.so \
@@ -123,7 +120,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libFlacSwDec.so:system/vendor/lib/libFlacSwDec.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
@@ -367,7 +363,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib/libllvm-glnext.so:system/vendor/lib/libllvm-glnext.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
-    vendor/huawei/kiwi/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera2_cpp_module.so:system/vendor/lib/libmmcamera2_cpp_module.so \
     vendor/huawei/kiwi/proprietary/vendor/lib/libmmcamera2_frame_algorithm.so:system/vendor/lib/libmmcamera2_frame_algorithm.so \
@@ -547,6 +542,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libxml.so:system/vendor/lib64/libxml.so
 
 PRODUCT_PACKAGES += \
+    libhuawei_secure \
+    liboeminfo \
     libqmi_oem_api \
     libtfa9895 \
     libtime_genoff \
