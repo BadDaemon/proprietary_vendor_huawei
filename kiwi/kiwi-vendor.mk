@@ -497,6 +497,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libcalmodule_common.so:system/vendor/lib64/libcalmodule_common.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libcneapiclient.so:system/vendor/lib64/libcneapiclient.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libconfigdb.so:system/vendor/lib64/libconfigdb.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/libcrypto_keystore.so:system/vendor/lib64/libcrypto_keystore.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libdiag.so:system/vendor/lib64/libdiag.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libdisp-aba.so:system/vendor/lib64/libdisp-aba.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libdrmfs.so:system/vendor/lib64/libdrmfs.so \
