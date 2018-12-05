@@ -17,7 +17,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
-    vendor/huawei/kiwi/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
     vendor/huawei/kiwi/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/huawei/kiwi/proprietary/vendor/bin/huawei_version:system/vendor/bin/huawei_version \
     vendor/huawei/kiwi/proprietary/vendor/bin/imsqmidaemon:system/vendor/bin/imsqmidaemon \
